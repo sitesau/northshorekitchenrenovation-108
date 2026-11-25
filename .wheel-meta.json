@@ -1,0 +1,22 @@
+{
+  "wheel_id": 965,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-108",
+  "project": "kitchen-renovations-north-shore-materials-compared-35ca00f051fa",
+  "parent_t1_ref": "northshorekitchenrenovation-153",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore materials compared",
+  "intended_url": "http://kitchen-renovations-north-shore-materials-compared-35ca00f051fa.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "eab7f7711a5a29e4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-north-shore-quotes-explained-4c816f2be9dbde/",
+      "anchor": "Kitchen Renovations North Shore Quotes Explained: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
